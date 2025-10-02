@@ -1,6 +1,6 @@
 {
   "name": "prac5-dam",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "main.js",
   "scripts": {
     "start": "electron .",
@@ -18,12 +18,12 @@
     "electron-updater": "^6.6.2"
   },
   "build": {
-    "appId": "com.ariel.mireproductor",
+    "appId": "com.kevin.mireproductor",
     "productName": "Mi reproductor de musica",
     "publish": {
       "provider": "github",
-      "owner": "Neith21",
-      "repo": "Mi-reproductor-de-M-sica"
+      "owner": "KevPerla",
+      "repo": "practica5"
     }
   }
 }
